@@ -1,2 +1,2 @@
 # Projetos---JavaSricpt
- Repositório para alocar projetos criandos em JS.
+ Repositório para alocar projetos criados utilizando as tecnologias de: HTML, CSS e JavaScript.
